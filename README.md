@@ -1,4 +1,4 @@
-# ChanduCLI
+# NanoCode
 
 A local coding assistant CLI built with the OpenAI SDK and Azure identity.
 
